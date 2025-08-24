@@ -1,2 +1,3 @@
 # Generating-Word-Cloud-in-Python
-Generating Word Cloud in Python
+
+![My Image](images/myimage.png)
